@@ -1,0 +1,12 @@
+falta accion dividir
+blackjack natural = saltear de una y no dejar jugar // ya hecho? xd
+
+hacer bot del dealer
+
+stand 17!
+
+en la funcion siguienteTurno
+podriamos revisar si somos dealer
+y de ahi llamar a la funcion jugarDealer() o algo asi
+y de ahi podriamos tener un while loop que juega como el dealer
+y cuando termina llamamos a siguiente turno de vuelta para reiniciar
